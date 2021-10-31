@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "_Artemis",
+            "firstName": "Artemis",
+            "lastName": "Fowl",
+            "email": "artemisfowl@gmail.com",
+            "isAdmin": false,
+            "twoots": null
+        },
+        {
+            "id": 2,
+            "username": "_Gandalf",
+            "firstName": "Gandalf",
+            "lastName": "The Grey",
+            "email": "umusayt@gmail.com",
+            "isAdmin": true,
+            "twoots": [
+              { "id": 1, "content": "Twooter is amazing!" },
+              { "id": 2, "content": "Gandalf is awesome!" }
+            ]
+          }
+    ]
+}
